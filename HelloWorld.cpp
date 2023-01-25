@@ -1,4 +1,8 @@
 // Simple C++ program to display "Hello World" 
+HEAD
+
+// Author: Anirudh Kalahasti <ark180685@gmail.com>
+main
 // Header file for input output functions
 #include<iostream>  
   

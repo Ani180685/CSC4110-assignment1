@@ -1,7 +1,7 @@
 
 #Github and git conflict
 
-#Github aad git
+#Github and git
 
 # CSC4110-assignment1
 
